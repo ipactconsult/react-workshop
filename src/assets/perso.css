@@ -1,0 +1,9 @@
+.my-text {
+    color: burlywood;
+}
+
+.my-text:hover {
+    transition: 4s;
+    color: black;
+    background-color: blueviolet;
+}
